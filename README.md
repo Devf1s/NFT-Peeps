@@ -1,7 +1,7 @@
 ____
 # NFT Peeps
 ____
-[Site](https://1kiritos1.github.io/NFT-Peeps/)
+[Site](https://devf1s.github.io/NFT-Peeps/)
 
 ### Used:
 * ***HTML***
